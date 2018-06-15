@@ -1,0 +1,15 @@
+name: HelloBroadcaster
+author: MechRalph04
+api: [3.0.0, 3.0.0-ALPHA12]
+description: A plugin that broadcasts (optional, this is not that important)
+main: mechralph04\hellobroadcaster\Main
+
+commands:
+  hbw
+    decription: Broadcasts that you said hello
+    usage: "You may have used the command in a wrong way"
+   
+permissions:
+  hbw.command.hello
+    default: default
+    description: "Just says hello to the people"
