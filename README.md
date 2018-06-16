@@ -1,2 +1,2 @@
 # MyPluginBroadcast
-Tutorial Plugin
+Broadcasts hello
