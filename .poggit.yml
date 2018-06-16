@@ -3,6 +3,6 @@ branches:
 - master
 - beta
 projects:
-  MaxHealth:
+  HelloBroadcaster:
     path: ""
 ...
