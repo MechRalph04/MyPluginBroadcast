@@ -2,7 +2,7 @@ name: HelloBroadcaster
 author: MechRalph04
 version: 1.0
 api: [3.0.0, 3.0.0-ALPHA12]
-description: A plugin that broadcasts (optional, this is not that important)
+description: A plugin that broadcasts
 main: mechralph04\hellobroadcaster\Main
 
 commands:
