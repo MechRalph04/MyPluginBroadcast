@@ -1,5 +1,6 @@
 name: HelloBroadcaster
 author: MechRalph04
+version: 1.0
 api: [3.0.0, 3.0.0-ALPHA12]
 description: A plugin that broadcasts (optional, this is not that important)
 main: mechralph04\hellobroadcaster\Main
@@ -7,11 +8,11 @@ main: mechralph04\hellobroadcaster\Main
 commands:
   hbw
     decription: Broadcasts that you said hello
-    usage: /hbw <Usage here>
+    usage: "/hbw <Usage here>"
     aliases: [hbw, hello]
   nothingcmd:
     description: Does nothing, but let's see
-    usage: /nothingcmd <argument <another argument>
+    usage: "/nothingcmd <argument <another argument>"
    
 permissions:
   hbw.command.hello
