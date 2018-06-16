@@ -10,11 +10,3 @@ commands:
     decription: Broadcasts that you said hello
     usage: "/hbw <Usage here>"
     aliases: [hbw, hello]
-  nothingcmd:
-    description: Does nothing, but let's see
-    usage: "/nothingcmd <argument <another argument>"
-   
-permissions:
-  hbw.command.hello
-    default: default
-    description: "Just says hello to the people"
