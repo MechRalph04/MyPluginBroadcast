@@ -3,7 +3,7 @@ author: MechRalph04
 version: 1.0
 api: [3.0.0, 3.0.0-ALPHA12]
 description: A plugin that broadcasts
-main: mechralph04/hellobroadcaster/Main
+main: mechralph04\hellobroadcaster\Main
 
 commands:
   hbw
