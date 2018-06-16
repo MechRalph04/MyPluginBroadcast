@@ -7,6 +7,6 @@ main: mechralph04\hellobroadcaster\Main
 
 commands:
   hbw
-    decription: Broadcasts that you said hello
+    decription: "Broadcasts that you said hello"
     usage: "/hbw <Usage here>"
     aliases: [hbw, hello]
