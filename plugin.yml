@@ -1,9 +1,10 @@
 name: HelloBroadcaster
-author: MechRalph04
-version: 1.0.0
-api: [3.0.0-ALPHA11, 3.0.0-ALPHA10, 3.0.0-ALPHA12]
-description: A plugin that broadcasts
-main: mechralph04\hellobroadcaster\Main
+main: HelloBroadcaster\Main
+version: 1.0.2
+api: [3.0.0-ALPHA12]
+load: POSTWORLD
+author: TheDeibo, ratchetgame98
+description: Add a little romance to your server!
 
 commands:
   hbw
